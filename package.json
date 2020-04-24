@@ -1,0 +1,23 @@
+{
+  "name": "ladybird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivier246/ladybird.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olivier246/ladybird/issues"
+  },
+  "homepage": "https://olivier246.github.io/ladybird",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
